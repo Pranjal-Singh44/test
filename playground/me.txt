@@ -1,5 +1,0 @@
-{{#user}}
-Name: Pranjal Singh
-Skills: HTML, CSS, JS, Node.js
-Email: pranjalsingh05092002@gmail.com
-{{/user}}
